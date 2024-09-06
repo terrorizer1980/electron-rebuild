@@ -42,13 +42,13 @@
     "debug": "^4.1.1",
     "detect-libc": "^1.0.3",
     "fs-extra": "^10.0.0",
-    "got": "^11.7.0",
+    "got": "^12.6.0",
     "lzma-native": "^8.0.1",
     "node-abi": "^2.19.2",
-    "node-gyp": "^7.1.0",
-    "ora": "^5.1.0",
+    "node-gyp": "^10.2.0",
+    "ora": "^6.0.1",
     "tar": "^6.0.5",
-    "yargs": "^17.0.1"
+    "yargs": "^17.6.0"
   },
   "devDependencies": {
     "@continuous-auth/semantic-release-npm": "^2.0.0",
